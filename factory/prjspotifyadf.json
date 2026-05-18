@@ -1,0 +1,15 @@
+{
+	"name": "prjspotifyadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7838470c-d424-4836-a83d-3ee8b0027dba",
+		"tenantId": "a8086e28-b99e-487f-85df-96d2486c7d12"
+	}
+}
